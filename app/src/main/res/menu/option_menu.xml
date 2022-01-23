@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listaz"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="listaz"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/torles"
+        android:icon="@drawable/ic_dialog_close_dark"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/fizet"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="tovabb"
+        app:showAsAction="always" />
+</menu>
